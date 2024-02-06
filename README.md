@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Prabesh-17
-- 👀 I’m interested in ...hackinh
+- 👀 I’m interested in cyber security 
 - 🌱 I’m currently learning ...BCA
 - 💞️ I’m looking to collaborate on ...new coders 
 - 📫 How to reach me ...prabeshsubedi17@gmail.com
